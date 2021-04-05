@@ -1,0 +1,117 @@
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    text-align: center;
+    background-repeat: no-repeat;
+    background: linear-gradient(#02ed35 0%, #F7146F 100%);
+}
+
+img {
+    height: 250px;
+    width: 400px;
+}
+
+#fav {
+    padding: 20px;
+    font-size: 18px;
+    text-align: center;
+}
+
+h3 {
+    font-size: 40px;
+    font-family: Syne Mono;
+}
+
+h4 {
+    font-size: 40px;
+    font-family: Syne Mono;
+}
+
+links:hover {
+    background-color: blueviolet;
+}
+
+.menu {
+    list-style: none;
+    font-family: cursive;
+    float: right;
+    top: 10px;
+    right: 40px;
+    cursor: pointer;
+    color: black;
+    z-index: 10;
+}
+
+h5 {
+    font-size: 40px;
+    font-family: Syne Mono;
+}
+
+#gall {
+    height: 550px;
+    width: 450px;
+}
+
+h6 {
+    font-family: Syne Mono;
+    Font-size: 40px;
+}
+
+h7 {
+    font-family: Syne Mono;
+    Font-size: 40px;
+}
+
+h8 {
+    font-family: Syne Mono;
+    Font-size: 40px;
+}
+
+h9 {
+    font-family: Syne Mono;
+    Font-size: 40px;
+}
+
+#gallery {
+    text-align: center;
+}
+
+#intro_img {
+    width: 400px;
+    padding-left: 400px;
+}
+
+#intro {
+    text-align: center;
+    z-index: 9;
+}
+
+.links {
+    float: left;
+    padding-top: 10px;
+    padding-right: 5px;
+    padding-left: 5px;
+    padding-bottom: 10px;
+}
+
+#bozzo:hover {
+    Transform: scale(0.9);
+}
+
+#bozzo {
+    transition: transform .2s;
+    border: 10px solid #AAAAAA;
+}
+
+h10 {
+    font-size: 55px;
+    text-align: center;
+    font-family: Syne Mono;
+}
+
+a {
+    color: blue;
+    color: black !important;
+}
